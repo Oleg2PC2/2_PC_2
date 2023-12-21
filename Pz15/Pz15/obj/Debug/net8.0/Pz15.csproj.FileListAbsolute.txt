@@ -1,0 +1,14 @@
+D:\Pz\Pz15\Pz15\bin\Debug\net8.0\Pz15.exe
+D:\Pz\Pz15\Pz15\bin\Debug\net8.0\Pz15.deps.json
+D:\Pz\Pz15\Pz15\bin\Debug\net8.0\Pz15.runtimeconfig.json
+D:\Pz\Pz15\Pz15\bin\Debug\net8.0\Pz15.dll
+D:\Pz\Pz15\Pz15\bin\Debug\net8.0\Pz15.pdb
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.AssemblyInfoInputs.cache
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.AssemblyInfo.cs
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.csproj.CoreCompileInputs.cache
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.dll
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\refint\Pz15.dll
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.pdb
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\Pz15.genruntimeconfig.cache
+D:\Pz\Pz15\Pz15\obj\Debug\net8.0\ref\Pz15.dll
