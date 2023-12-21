@@ -1,0 +1,14 @@
+D:\Pz\Pz10\Pz10\bin\Debug\net8.0\Pz10.exe
+D:\Pz\Pz10\Pz10\bin\Debug\net8.0\Pz10.deps.json
+D:\Pz\Pz10\Pz10\bin\Debug\net8.0\Pz10.runtimeconfig.json
+D:\Pz\Pz10\Pz10\bin\Debug\net8.0\Pz10.dll
+D:\Pz\Pz10\Pz10\bin\Debug\net8.0\Pz10.pdb
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.AssemblyInfoInputs.cache
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.AssemblyInfo.cs
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.csproj.CoreCompileInputs.cache
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.dll
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\refint\Pz10.dll
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.pdb
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\Pz10.genruntimeconfig.cache
+D:\Pz\Pz10\Pz10\obj\Debug\net8.0\ref\Pz10.dll

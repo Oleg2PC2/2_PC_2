@@ -1,0 +1,14 @@
+D:\Pz\Pz9\Pz9\bin\Debug\net8.0\Pz9.exe
+D:\Pz\Pz9\Pz9\bin\Debug\net8.0\Pz9.deps.json
+D:\Pz\Pz9\Pz9\bin\Debug\net8.0\Pz9.runtimeconfig.json
+D:\Pz\Pz9\Pz9\bin\Debug\net8.0\Pz9.dll
+D:\Pz\Pz9\Pz9\bin\Debug\net8.0\Pz9.pdb
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.AssemblyInfoInputs.cache
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.AssemblyInfo.cs
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.csproj.CoreCompileInputs.cache
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.dll
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\refint\Pz9.dll
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.pdb
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\Pz9.genruntimeconfig.cache
+D:\Pz\Pz9\Pz9\obj\Debug\net8.0\ref\Pz9.dll
