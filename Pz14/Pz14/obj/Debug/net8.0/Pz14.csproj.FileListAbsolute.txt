@@ -1,0 +1,14 @@
+D:\Pz\Pz14\Pz14\bin\Debug\net8.0\Pz14.exe
+D:\Pz\Pz14\Pz14\bin\Debug\net8.0\Pz14.deps.json
+D:\Pz\Pz14\Pz14\bin\Debug\net8.0\Pz14.runtimeconfig.json
+D:\Pz\Pz14\Pz14\bin\Debug\net8.0\Pz14.dll
+D:\Pz\Pz14\Pz14\bin\Debug\net8.0\Pz14.pdb
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.AssemblyInfoInputs.cache
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.AssemblyInfo.cs
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.csproj.CoreCompileInputs.cache
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.dll
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\refint\Pz14.dll
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.pdb
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\Pz14.genruntimeconfig.cache
+D:\Pz\Pz14\Pz14\obj\Debug\net8.0\ref\Pz14.dll

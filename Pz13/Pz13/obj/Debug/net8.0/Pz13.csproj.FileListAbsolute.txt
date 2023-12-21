@@ -1,0 +1,14 @@
+D:\Pz\Pz13\Pz13\bin\Debug\net8.0\Pz13.exe
+D:\Pz\Pz13\Pz13\bin\Debug\net8.0\Pz13.deps.json
+D:\Pz\Pz13\Pz13\bin\Debug\net8.0\Pz13.runtimeconfig.json
+D:\Pz\Pz13\Pz13\bin\Debug\net8.0\Pz13.dll
+D:\Pz\Pz13\Pz13\bin\Debug\net8.0\Pz13.pdb
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.AssemblyInfoInputs.cache
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.AssemblyInfo.cs
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.csproj.CoreCompileInputs.cache
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.dll
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\refint\Pz13.dll
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.pdb
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\Pz13.genruntimeconfig.cache
+D:\Pz\Pz13\Pz13\obj\Debug\net8.0\ref\Pz13.dll
